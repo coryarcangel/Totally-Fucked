@@ -34,7 +34,7 @@ Cory Arcangel, 2003
 
 http://www.coryarcangel.com
 
-Credz: Special thx 2 Todd Bailey of Narrat1ve for preserving this work by rescuing this ROM in 2013 off of the one remaining cartridge I managed somehow to save from 2003.  
+Credz: Special thx 2 Todd Bailey of Narrat1ve for preserving this work by rescuing this ROM in 2013 off of the one remaining cartridge I managed somehow to save from 2003. Thus, there is no source code, just the compiled ROMs FYI.   
 
 Requirements: Nintendo Entertainment System, Super Mario Bros. cartridge, CRT television, 27C256 EEPROM & socket.
 
